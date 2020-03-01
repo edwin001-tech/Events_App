@@ -1,0 +1,21 @@
+
+.container {
+  display: flex;
+  justify-content: left;
+  flex-direction: row;
+  
+}
+
+.card-image{
+  height: 300px; 
+  width:100; 
+}
+
+.calendar{
+  justify-content: left;
+  
+
+}
+
+
+
